@@ -1,5 +1,3 @@
-import os 
-
 file_name = open("file.txt", 'r')
 file_data = file_name.read()
 
